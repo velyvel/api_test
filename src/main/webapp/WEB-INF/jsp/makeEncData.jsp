@@ -40,7 +40,7 @@
                        // 오류 처리 코드 추가
                    });
                }
-       </script>
+   </script>
 
     <style type="text/css">td{border: 1px solid #ccc}</style>
 </head>

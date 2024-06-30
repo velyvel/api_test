@@ -30,7 +30,7 @@ public class NiceApiController {
     private final String PRODUCT_ID = "2101979031";
 
     // 그래서 accessToken을 발급받았다
-    private final String ACCESS_TOKEN = "71c469e0-235d-480a-b16e-3cefdf8b6da1";
+    private final String ACCESS_TOKEN = "";
 
     /*
      * 50년 기관토큰 발급, POST : /digital/niceid/oauth/oauth/token
